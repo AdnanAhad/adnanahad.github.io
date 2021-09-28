@@ -372,6 +372,7 @@ footer .social_media_icons a:hover i {
   height: 50px;
   overflow: hidden;
 }
+
 /* ---------- Media Query ---------- */
 @media (max-width: 1120px) {
   #main .user_img img {
