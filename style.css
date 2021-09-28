@@ -387,7 +387,7 @@ footer .social_media_icons a:hover i {
 }
 
 ::-webkit-scrollbar-thumb:hover {
-  background: hsl(0, 0%, 23%);
+  background: hsl(0, 0%, 19%);
 }
 
 ::-webkit-scrollbar-thumb:active {
