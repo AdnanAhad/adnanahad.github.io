@@ -373,6 +373,27 @@ footer .social_media_icons a:hover i {
   overflow: hidden;
 }
 
+/* Styling Scroll Bar */
+::-webkit-scrollbar {
+  width: 1rem;
+}
+
+::-webkit-scrollbar-track {
+  background: rgb(107, 107, 107);
+}
+::-webkit-scrollbar-thumb {
+  background: hsl(0, 0%, 27%);
+  border-radius: 30px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: hsl(0, 0%, 23%);
+}
+
+::-webkit-scrollbar-thumb:active {
+  background: rgb(27, 27, 27);
+}
+
 /* ---------- Media Query ---------- */
 @media (max-width: 1120px) {
   #main .user_img img {
