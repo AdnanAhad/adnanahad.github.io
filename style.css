@@ -67,7 +67,7 @@ body {
   height: 20em;
   border-radius: 50%;
   margin: 0 30px;
-  box-shadow: 0 0 50px rgba(182, 53, 53, 0.479);
+  box-shadow: 0 0 50px rgba(116, 115, 115, 0.479);
 }
 #main .user_info .btn {
   padding: 0.6em 2em;
